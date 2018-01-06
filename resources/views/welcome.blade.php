@@ -3,7 +3,7 @@
 <div class='valign-wrapper welcome-wrapper'>
     <div class="card welcome">
         <div class="card-content">
-            <h1>Studycom<span class="commercial">®</span></h1>
+            <h1>BSChat<span class="commercial">®</span></h1>
         </div>
 
         <div class="card-action">
