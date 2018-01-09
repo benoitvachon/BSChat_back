@@ -21,7 +21,7 @@ io.sockets.on('connection', function (socket) {
     });
 
     socket.on('joinChannel', function (channel) {
-        console.log('Un user est connecté aut topic !');
+        console.log('Un user est connecté à la conversation !');
         socket.join(channel);
         io.in(channel).emit('joinChannel', 'hello topic');
 
